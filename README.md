@@ -25,7 +25,7 @@ Skills: Html, CSS, Tailwind, Javascript, React Js, Next Js, Mongoose, Express Js
 - 
 ### Programming Skill
 <p>
-  <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Mongoose-000000.svg?logo=next.js&logoColor=white"></a>
+  <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-21472b.svg?logo=next.js&logoColor=white"></a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
   <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white"></a>
   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white"></a>
