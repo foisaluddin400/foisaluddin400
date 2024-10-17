@@ -82,7 +82,7 @@
   </tr>
 </table> 
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/foisaluddin400/contributions?format=svg&private=false)  
+
 
 ![GitHub metrics](https://metrics.lecoq.io/foisaluddin400)  
 
