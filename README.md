@@ -19,7 +19,9 @@
 
 ### Programming Skill
 <p>
-  
+  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+  </a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
   <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=%white"></a>
   <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white"></a>
