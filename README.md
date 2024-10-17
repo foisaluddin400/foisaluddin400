@@ -15,12 +15,12 @@ Skills: Html, CSS, Tailwind, Javascript, React Js, Next Js, Mongoose, Express Js
   <tr>
     <td>
       <a href="https://github.com/foisaluddin400/github-readme-streak-stats" title="Go to Source">
-        <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=foisaluddin400&theme=react&border=61dafb&hide_border=true" alt="foisaluddin400" />
+        <img align="center" width=490 src="https://github-readme-streak-stats.herokuapp.com/?user=foisaluddin400&theme=react&border=61dafb&hide_border=true" alt="foisaluddin400" />
       </a>
     </td>
     <td>
       <a href="https://github.com/foisaluddin400/github-readme-stats" title="Go to Source">
-        <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=foisaluddin400&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+        <img align="center" width=490 src="https://github-readme-stats.vercel.app/api?username=foisaluddin400&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
       </a>
     </td>
   </tr>
