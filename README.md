@@ -1,7 +1,6 @@
-
+![Full Stack Web Developer](https://i.ibb.co.com/6HwGRMt/PROFESSIONAL-WEBSITE.png)
 ### Hi there 👋, I am Momtaj
 #### Full Stack Web Developer
-![Full Stack Web Developer](https://i.ibb.co.com/6HwGRMt/PROFESSIONAL-WEBSITE.png)
 
 My name is Momtaj Uddin, and I'm a MERN stack developer from Bangladesh. I'm passionate about web development, striving to create user-friendly features. I'm dedicated to ensuring smooth functionality by diligently addressing bugs and errors, aiming for perfection in every project. My goal is to craft engaging user experiences through intuitive interfaces, focusing on usability and satisfaction.
 
