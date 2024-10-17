@@ -32,6 +32,29 @@
   <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-21472b.svg?logo=mongodb&logoColor=white"></a>
   <a href="#"><img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-2e0105.svg?logo=mongoose&logoColor=red"></a>
 </p>
+### Cloud hosting
+
+<p>
+  <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+  <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+</p>
+
+### Software and tools
+
+<p>
+  
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"></a>
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
+  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-000000.svg?logo=pycharm&logoColor=white"></a>
+  <a href="#"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft%20Office-D83B01.svg?logo=microsoft-office&logoColor=white"></a>
+  <a href="#"><img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A.svg?logo=microsoft-powerpoint&logoColor=white"></a>
+  <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?logo=microsoft-excel&logoColor=white"></a>
+  <a href="#"><img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft%20Word-2B579A.svg?logo=microsoft-word&logoColor=white"></a>
+  <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-00A67E.svg?logo=openai&logoColor=white"></a>
+  <a href="#"><img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-0099E5.svg?logo=github&logoColor=white"></a>
+</p>
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/foisaluddin400)  
 
