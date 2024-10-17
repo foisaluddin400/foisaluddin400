@@ -11,11 +11,11 @@ Skills: Html, CSS, Tailwind, Javascript, React Js, Next Js, Mongoose, Express Js
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/foisaluddin400)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=foisaluddin400&show_icons=true)  
+ ![GitHub streak stats](https://streak-stats.demolab.com/?user=foisaluddin400) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=foisaluddin400&show_icons=true)  
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/foisaluddin400/contributions?format=svg&private=false)  
 
 ![GitHub metrics](https://metrics.lecoq.io/foisaluddin400)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=foisaluddin400)  
+
 
