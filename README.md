@@ -13,7 +13,7 @@ Skills: Html, CSS, Tailwind, Javascript, React Js, Next Js, Mongoose, Express Js
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=foisaluddin400&show_icons=true) ![GitHub streak stats](https://streak-stats.demolab.com/?user=foisaluddin400)   
+[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark)](https://git.io/streak-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark)](https://git.io/streak-stats) 
 
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/foisaluddin400/contributions?format=svg&private=false)  
