@@ -54,7 +54,7 @@
   <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-f6ff00.svg?logo=firebase&logoColor=orange"></a>
 </p>
 
-### Office Programe
+### Office Programes
 
 <p>
   <a href="#"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft%20Office-D83B01.svg?logo=microsoft-office&logoColor=white"></a>
@@ -72,12 +72,12 @@
   <tr>
     <td>
       <a href="https://github.com/foisaluddin400/github-readme-streak-stats" title="Go to Source">
-        <img align="center" width=490 src="https://github-readme-streak-stats.herokuapp.com/?user=foisaluddin400&theme=react&border=61dafb&hide_border=true" alt="foisaluddin400" />
+        <img align="center" width=490 src="https://github-readme-streak-stats.herokuapp.com/?user=foisaluddin400&theme=react&border=bd4500&hide_border=true" alt="foisaluddin400" />
       </a>
     </td>
     <td>
       <a href="https://github.com/foisaluddin400/github-readme-stats" title="Go to Source">
-        <img align="center" width=490 src="https://github-readme-stats.vercel.app/api?username=foisaluddin400&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+        <img align="center" width=490 src="https://github-readme-stats.vercel.app/api?username=foisaluddin400&show_icons=true&theme=react&border_color=bd4500&hide_border=true" />
       </a>
     </td>
   </tr>
