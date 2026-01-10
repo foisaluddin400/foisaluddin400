@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="foisalrk2@gmail.com" target="_blank">
-    <img src="https://i.ibb.co.com/dJ79JZVq/PROFESSIONAL-WEBSITE.png" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.facebook.com/rh.foisal?mibextid=ZbWKwL" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
