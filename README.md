@@ -1,4 +1,4 @@
-![Full Stack Web Developer](https://i.ibb.co.com/6HwGRMt/PROFESSIONAL-WEBSITE.png)
+![Full Stack Web Developer](https://i.ibb.co.com/dJ79JZVq/PROFESSIONAL-WEBSITE.png)
 ###
 
 <div align="center">
