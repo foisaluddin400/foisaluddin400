@@ -1,70 +1,13 @@
-![Full Stack Web Developer](https://i.ibb.co.com/mVnvDcW3/full-stack-developer-backgroud.png)
-###
-
-<div align="center">
-  <a  target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="foisalrk2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.facebook.com/rh.foisal?mibextid=ZbWKwL" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-</div>
- 
-#### Full Stack Web Developer
-<p>My name is Momtaj Uddin, and I'm a MERN stack  devel oper from Bangladesh. I'm passionate about web development, striving to create user-friendly features. I'm dedicated to ensuring smooth functionality by diligently addressing bugs and errors, aiming for perfection in every project. My goal is to craft engaging user experiences through intuitive interfaces, focusing on usability and satisfaction.</p>
-
-### Programming Skill
-<p>
-  <a href="#">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-  </a>
-  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-  <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=%white"></a>
-  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white"></a>
-  <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-</p>
-
-### Database
-
-<p>
-  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-21472b.svg?logo=mongodb&logoColor=white"></a>
-  <a href="#"><img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-2e0105.svg?logo=mongoose&logoColor=red"></a>
-</p>
-
-### Cloud hosting
-
-<p>
-  <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
-  <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-</p>
-
-### Software and toolsff
-
-<p>
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"></a>
-  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
-  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-471354.svg?logo=figma&logoColor=red"></a>
-  <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-00A67E.svg?logo=openai&logoColor=white"></a>
-  <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-f6ff00.svg?logo=firebase&logoColor=orange"></a>
-</p>
-
-### Office Programes
-
-<p>
-  <a href="#"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft%20Office-D83B01.svg?logo=microsoft-office&logoColor=white"></a>
-  <a href="#"><img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A.svg?logo=microsoft-powerpoint&logoColor=white"></a>
-  <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?logo=microsoft-excel&logoColor=white"></a>
-  <a href="#"><img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft%20Word-2B579A.svg?logo=microsoft-word&logoColor=white"></a>
-</p>
+# 💫 About Me:
+I am a passionate Full Stack Web Developer and React Native Mobile App Developer focused on building modern, scalable, and user-friendly applications.<br>I specialize in creating high-performance web and mobile solutions using the latest technologies.<br>On the frontend, I craft smooth and responsive user interfaces. On the backend, I build secure, efficient, and well-structured systems.<br>I am always learning and improving to deliver better solutions.
 
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/rh.foisal?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rkfoisal330?igsh=ejZvOTg0cWV4dmFj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/momtaj-uddin-780644400) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/foisaluddin495) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCPQo2INxg2tX4hnEpschrhw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:foisalrk2@gmail.com) 
 
-
-
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+## 📊 GitHub Stats:
 
  <table>
   <tr>
@@ -82,8 +25,10 @@
 </table> 
 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=foisaluddin400&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![GitHub metrics](https://metrics.lecoq.io/foisaluddin400)  
+---
+[![](https://komarev.com/ghpvc/?username=foisaluddin400&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
