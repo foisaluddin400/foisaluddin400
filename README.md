@@ -1,3 +1,5 @@
+![Full Stack Web Developer](https://i.ibb.co.com/mVnvDcW3/full-stack-developer-backgroud.png)
+##
 # 💫 About Me:
 I am a passionate Full Stack Web Developer and React Native Mobile App Developer focused on building modern, scalable, and user-friendly applications.<br>I specialize in creating high-performance web and mobile solutions using the latest technologies.<br>On the frontend, I craft smooth and responsive user interfaces. On the backend, I build secure, efficient, and well-structured systems.<br>I am always learning and improving to deliver better solutions.
 
